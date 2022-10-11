@@ -14,3 +14,6 @@ hora de inicio y la hora de finalización. (3 puntos)
 Desarrolla una tercera aplicación en Java que reciba como entrada una ruta a un fichero del
 sistema. Tu programa debe abrir el fichero, si existe, utilizando el comando cat y enviar la salida a la
 entrada del comando wc, que se utiliza para contar las líneas de un fichero. (4 puntos)
+
+
+

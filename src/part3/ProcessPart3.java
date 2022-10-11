@@ -10,7 +10,7 @@ public class ProcessPart3 {
 
     public void run (){
         Scanner sc = new Scanner(System.in);
-        System.out.println("agregame la ruta de un archivo");
+        System.out.println("Add a Rote To a File");
         String route = sc.nextLine();
         File file = new File(route);
 
