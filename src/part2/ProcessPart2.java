@@ -12,7 +12,7 @@ public class ProcessPart2 {
         this.name = name;
     }
     public  void run(){
-        ProcessBuilder processCreator = new ProcessBuilder("date", "sleep 0.5", "date");
+        ProcessBuilder processCreator = new ProcessBuilder("date");
         try {
             System.out.println("Starting process "
                     + this.name
